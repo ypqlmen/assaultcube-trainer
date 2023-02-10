@@ -1,5 +1,5 @@
-#First internal trainer
-Compile and run executable
+#First internal trainer,
+Compile and run executable.
 KEYBINDS:
 F1 = Infinite health
 F2 = Infinite Bullets
